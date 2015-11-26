@@ -1,0 +1,91 @@
+body{
+  margin: auto;
+}
+/*haut de la page nom, prénom, statut*/
+header
+{color:black;
+text-align: center;
+background-color:#6495ED;
+background-size: cover;
+font-family: 'Indie Flower', cursive;
+}
+/*image avatar*/
+#avatar{
+display: block;
+margin: auto;
+width:200px;
+margin-top:4px;
+border-radius: 100%
+}
+/*lien de navigation des pages*/
+nav{
+text-align: center;
+  height: 40px;
+  width: 100%;
+  padding-top:10px;
+background-color:#4169E1;
+}
+
+p{
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+
+}
+/*tableau des contacts*/
+td{
+  font-family: 'Playfair Display', serif;
+  color: blue
+}
+/*couleur contact*/
+td:hover{
+  color: #8B0000
+
+}
+
+/*logo twitter bas de page*/
+#twitter{
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 400px;
+}
+/*images portfolio*/
+.passion{
+  width: 44%;
+  margin-left: 4%;
+  display: inline-block;
+  height: 250px;
+}
+.img{
+  width: 100%;
+  height: 100%;
+
+}
+.folio{
+  text-align: center;
+  font-size: auto;
+}
+/*les titres*/
+h5{
+  text-decoration: underline;
+  text-align: center;
+  font-size: 24px;
+}
+h1
+{
+  padding:0px;
+  margin:0px;
+}
+h3
+{
+  padding:0px;
+  margin:0px;
+}
+/*menu de navigation*/
+nav {
+  font-family: 'Indie Flower', cursive;
+  font-size: 18px;
+}
+nav a:hover{
+  color: #000080
+}
